@@ -1,0 +1,6 @@
+name: build-large-language-model
+channels:
+  - defaults
+dependencies:
+  - python
+  - pytorch
